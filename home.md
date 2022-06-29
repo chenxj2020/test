@@ -4,13 +4,7 @@ layout: home
 title: Mapping Asia Plants (MAP)
 description: MAP’s mission is for a better mapping infrastructure for plant diversity conservation in Asia. It aims to provide a database and standardized workflow for mapping Asia plant species, which makes comprehensive basic information and interdisciplinary data mining for plant diversity conservation and research available.
 background: /assets/images/backg.jpg
-cta:
-  - text: Start
-    href: /data
-    isPrimary: true
-  - text: About
-    href: /about
-permalink: /
+
 ---
 
 
